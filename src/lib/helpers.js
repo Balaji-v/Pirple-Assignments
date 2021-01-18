@@ -17,5 +17,12 @@ helpers.hash = function() {
   //To DO
 };
 
+helpers.verifyToken = function(userId,token,callback) {
+  //To Do
+};
+
+helpers.createRandomToken = function(StrLen) {
+  //To DO
+};
 
 module.exports = helpers;
